@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aknsh78/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/aknsh78/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
