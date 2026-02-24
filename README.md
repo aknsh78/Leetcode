@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aknsh78/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aknsh78/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aknsh78/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0994-rotting-oranges](https://github.com/aknsh78/Leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknsh78/Leetcode/tree/master/0011-container-with-most-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/aknsh78/Leetcode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/aknsh78/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
