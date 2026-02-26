@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aknsh78/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aknsh78/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aknsh78/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/aknsh78/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aknsh78/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aknsh78/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aknsh78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aknsh78/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aknsh78/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aknsh78/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aknsh78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
