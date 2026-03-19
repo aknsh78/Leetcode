@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aknsh78/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aknsh78/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aknsh78/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/aknsh78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aknsh78/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aknsh78/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/aknsh78/Leetcode/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aknsh78/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aknsh78/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aknsh78/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aknsh78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aknsh78/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aknsh78/Leetcode/tree/master/0189-rotate-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aknsh78/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aknsh78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aknsh78/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aknsh78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
