@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/aknsh78/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/aknsh78/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2299-strong-password-checker-ii](https://github.com/aknsh78/Leetcode/tree/master/2299-strong-password-checker-ii) |
