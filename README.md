@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aknsh78/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/aknsh78/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/aknsh78/Leetcode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aknsh78/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aknsh78/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aknsh78/Leetcode/tree/master/0415-add-strings) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aknsh78/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/aknsh78/Leetcode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aknsh78/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aknsh78/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
