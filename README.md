@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aknsh78/Leetcode/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aknsh78/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aknsh78/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aknsh78/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1980-find-unique-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aknsh78/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aknsh78/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Greedy
 |  |
 | ------- |
