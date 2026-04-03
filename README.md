@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aknsh78/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aknsh78/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aknsh78/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aknsh78/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aknsh78/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aknsh78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aknsh78/Leetcode/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
