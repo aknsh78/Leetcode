@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aknsh78/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aknsh78/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
+| [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
