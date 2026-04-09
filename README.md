@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aknsh78/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aknsh78/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/aknsh78/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/aknsh78/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aknsh78/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/aknsh78/Leetcode/tree/master/0877-stone-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/aknsh78/Leetcode/tree/master/0561-array-partition) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aknsh78/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aknsh78/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/aknsh78/Leetcode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/aknsh78/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/aknsh78/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
