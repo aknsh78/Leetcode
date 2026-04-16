@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/aknsh78/Leetcode/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/aknsh78/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aknsh78/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/aknsh78/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aknsh78/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aknsh78/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aknsh78/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aknsh78/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aknsh78/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/aknsh78/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aknsh78/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Greedy
