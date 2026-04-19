@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/aknsh78/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2299-strong-password-checker-ii](https://github.com/aknsh78/Leetcode/tree/master/2299-strong-password-checker-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/aknsh78/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aknsh78/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aknsh78/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aknsh78/Leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aknsh78/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/aknsh78/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aknsh78/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/aknsh78/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aknsh78/Leetcode/tree/master/0415-add-strings) |
+| [2390-removing-stars-from-a-string](https://github.com/aknsh78/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aknsh78/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
