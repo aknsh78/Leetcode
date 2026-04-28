@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aknsh78/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aknsh78/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/aknsh78/Leetcode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/aknsh78/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aknsh78/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/aknsh78/Leetcode/tree/master/0994-rotting-oranges) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aknsh78/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aknsh78/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aknsh78/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/aknsh78/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/aknsh78/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aknsh78/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aknsh78/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aknsh78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aknsh78/Leetcode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/aknsh78/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aknsh78/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aknsh78/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
