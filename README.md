@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/aknsh78/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aknsh78/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aknsh78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aknsh78/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aknsh78/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aknsh78/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/aknsh78/Leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
