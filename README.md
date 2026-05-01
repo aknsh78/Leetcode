@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aknsh78/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aknsh78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aknsh78/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aknsh78/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aknsh78/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aknsh78/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aknsh78/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aknsh78/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
