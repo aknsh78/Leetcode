@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aknsh78/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aknsh78/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/aknsh78/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aknsh78/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
