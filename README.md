@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aknsh78/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aknsh78/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3819-rotate-non-negative-elements](https://github.com/aknsh78/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/aknsh78/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aknsh78/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3819-rotate-non-negative-elements](https://github.com/aknsh78/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Sliding Window
 |  |
 | ------- |
