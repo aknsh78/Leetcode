@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aknsh78/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aknsh78/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aknsh78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2317-maximum-xor-after-operations](https://github.com/aknsh78/Leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aknsh78/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aknsh78/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aknsh78/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/aknsh78/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aknsh78/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2317-maximum-xor-after-operations](https://github.com/aknsh78/Leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aknsh78/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aknsh78/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aknsh78/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/aknsh78/Leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aknsh78/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aknsh78/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
