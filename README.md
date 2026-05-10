@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/aknsh78/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aknsh78/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aknsh78/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aknsh78/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aknsh78/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aknsh78/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aknsh78/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aknsh78/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aknsh78/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/aknsh78/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aknsh78/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
