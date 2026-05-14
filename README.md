@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aknsh78/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aknsh78/Leetcode/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aknsh78/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aknsh78/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aknsh78/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aknsh78/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aknsh78/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aknsh78/Leetcode/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aknsh78/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/aknsh78/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/aknsh78/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aknsh78/Leetcode/tree/master/0509-fibonacci-number) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aknsh78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aknsh78/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aknsh78/Leetcode/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aknsh78/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/aknsh78/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aknsh78/Leetcode/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/aknsh78/Leetcode/tree/master/0692-top-k-frequent-words) |
