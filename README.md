@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aknsh78/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2784-check-if-array-is-good](https://github.com/aknsh78/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/aknsh78/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aknsh78/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aknsh78/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aknsh78/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/aknsh78/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2784-check-if-array-is-good](https://github.com/aknsh78/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aknsh78/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aknsh78/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aknsh78/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aknsh78/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aknsh78/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aknsh78/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2784-check-if-array-is-good](https://github.com/aknsh78/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
