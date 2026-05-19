@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aknsh78/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aknsh78/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aknsh78/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aknsh78/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## String
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/aknsh78/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/aknsh78/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aknsh78/Leetcode/tree/master/0877-stone-game) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aknsh78/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Recursion
 |  |
 | ------- |
