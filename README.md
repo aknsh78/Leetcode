@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aknsh78/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aknsh78/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aknsh78/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aknsh78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aknsh78/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3819-rotate-non-negative-elements](https://github.com/aknsh78/Leetcode/tree/master/3819-rotate-non-negative-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aknsh78/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aknsh78/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aknsh78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aknsh78/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aknsh78/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## String
