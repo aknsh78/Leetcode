@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aknsh78/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aknsh78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/aknsh78/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aknsh78/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/aknsh78/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/aknsh78/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aknsh78/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aknsh78/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2785-sort-vowels-in-a-string](https://github.com/aknsh78/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/aknsh78/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/aknsh78/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aknsh78/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/aknsh78/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aknsh78/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aknsh78/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aknsh78/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
