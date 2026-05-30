@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aknsh78/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aknsh78/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3819-rotate-non-negative-elements](https://github.com/aknsh78/Leetcode/tree/master/3819-rotate-non-negative-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/aknsh78/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aknsh78/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3527-find-the-most-common-response](https://github.com/aknsh78/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aknsh78/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3843-first-element-with-unique-frequency](https://github.com/aknsh78/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aknsh78/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3527-find-the-most-common-response](https://github.com/aknsh78/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aknsh78/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3843-first-element-with-unique-frequency](https://github.com/aknsh78/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Greedy
 |  |
 | ------- |
